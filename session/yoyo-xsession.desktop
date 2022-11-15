@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec=yoyo-session
+TryExec=yoyo-session
+Name=Yoyo Desktop
+Keywords=session
+Comment=session

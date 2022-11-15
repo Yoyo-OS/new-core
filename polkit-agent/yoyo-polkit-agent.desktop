@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=PolicyKit Handler
+TryExec=yoyo-polkit-agent
+Exec=yoyo-polkit-agent
+NoDisplay=true
